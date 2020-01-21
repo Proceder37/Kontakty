@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1579089819 source:c:\users\patryk\desktop\jipp\kontakty\kontakty.cpp
+	<iostream>
+	"kontakty.h"
+	<fstream>
+	<cstdlib>
+	<cstdio>
+
+1579089828 c:\users\patryk\desktop\jipp\kontakty\kontakty.h
+	<iostream>
+
+1579089597 source:c:\users\patryk\desktop\jipp\kontakty\main.cpp
+	<iostream>
+	"kontakty.h"
+
